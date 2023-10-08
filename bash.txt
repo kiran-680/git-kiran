@@ -1,0 +1,3 @@
+renaming a folder ----> mv original/newname
+move files : filename folder_name where we want to removed the files
+

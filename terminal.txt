@@ -1,0 +1,26 @@
+#### Acccessing computer Resources  #####
+1. command line interface (CLI)
+2. Graphical user Interface(GUI)
+
+
+### comand prompt  --->old one
+### powershell   ----> new one 
+### bash shell ---> we will get all sorts of command
+## git bash shell is based on the linux 
+index.html
+
+# ls---> list of all folders and files 
+#  cd --> change the directory 
+# ctr + l---. scroll
+# opening a file :- .\terminal.txt
+# start filename --> opening in  git bash command 
+# rm folders
+#rm filename 
+# permanently deleted 
+# pwd ---> present working directory [path]
+
+
+
+
+
+
